@@ -1,5 +1,14 @@
-# IRB
+---
+tags: readme
+language: ruby
+resources: 0
+track: web development
+topic: ruby
+unit: hello world
+lesson: irb
+---
 
+# IRB
 
 * Stands for "interactive ruby"
 * Allows you to execute ruby in the terminal
