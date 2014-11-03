@@ -12,16 +12,16 @@ lesson: irb
 
 ## Introduction
 
-* Stands for "interactive ruby"
-* Allows you to execute ruby in the terminal
+* IRB stands for "interactive ruby"
+* IRB allows you to execute ruby in the terminal
 * To access irb, just type irb in the terminal
-* IRB allows you to do anything that a Ruby file would allow. For instance, you can do math, get the time by typing `Time.now`, or print text to the screen.
+* IRB allows you to do anything you can do in a Ruby file. For instance, you can do math, get the time by typing `Time.now`, or print text to the screen.
 
 ## Instructions
 
 * Open up your terminal (press `command` and `space bar` to search on a Mac, then type terminal, then hit `return`).
 * Type `irb` and hit `return`
-* Welcome to IRB, it's that simple. Type the commands below and all them to inspire you to explore the world of Ruby!
+* Now that you've started IRB, type the commands below to see how it works!
   * Time.now
   * 255 / 5
   * 9 ** 2
