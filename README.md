@@ -1,11 +1,7 @@
 ---
-tags: readme
+tags: readme, irb
 language: ruby
 resources: 0
-track: web development
-topic: ruby
-unit: hello world
-lesson: irb
 ---
 
 # IRB
