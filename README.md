@@ -8,7 +8,7 @@ resources: 0
 
 ## Introduction
 
-* IRB stands for "interactive ruby"
+* IRB stands for "interactive ruby", it's a ruby shell.
 * IRB allows you to execute ruby in the terminal
 * To access irb, just type irb in the terminal
 * IRB allows you to do anything you can do in a Ruby file. For instance, you can do math, get the time by typing `Time.now`, or print text to the screen.
