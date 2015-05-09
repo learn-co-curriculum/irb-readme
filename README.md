@@ -15,10 +15,11 @@ resources: 0
 
 ## Instructions
 
-* Open up your terminal (press `command` and `space bar` to search on a Mac, then type terminal, then hit `return`).
+* Open up your terminal.
 * Type `irb` and hit `return`
-* Now that you've started IRB, type the commands below to see how it works!
-  * Time.now
-  * 255 / 5
-  * 9 ** 2
-  * puts "hello world"
+* Now that you've started IRB, type the commands below to see how it works! Type each of the following lines into the irb shell and press enter.
+  
+  * `Time.now`
+  * `255 / 5`
+  * `9 ** 2`
+  * `puts "hello world"`
