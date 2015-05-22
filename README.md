@@ -6,6 +6,13 @@ resources: 0
 
 # IRB
 
+<video controls width="100%">
+  <source src="http://learn-co-videos.s3.amazonaws.com/ruby/intro-to-irb.mp4" type="video/mp4" >
+    The video accompanying this lab is best enjoyed on Learn.co
+</video>
+
+[MP4](http://learn-co-videos.s3.amazonaws.com/ruby/intro-to-irb.mp4)
+
 ## Introduction
 
 * IRB stands for "interactive ruby", it's a ruby shell.
