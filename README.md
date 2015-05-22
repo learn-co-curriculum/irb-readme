@@ -4,7 +4,7 @@ language: ruby
 resources: 0
 ---
 
-# IRB
+## Introduction to IRB
 
 <video controls width="100%">
   <source src="http://learn-co-videos.s3.amazonaws.com/ruby/intro-to-irb.mp4" type="video/mp4" >
