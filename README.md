@@ -1,9 +1,3 @@
----
-tags: readme, irb
-language: ruby
-resources: 0
----
-
 ## Introduction to IRB
 
 <video controls width="100%">
