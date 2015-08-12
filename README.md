@@ -2,7 +2,7 @@
 
 ## Objectives
 
-1. Understand what IRB
+1. Understand what IRB is
 2. Get comfortable using IRB to execute Ruby code
 
 <video controls width="100%">
