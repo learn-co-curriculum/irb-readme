@@ -2,8 +2,10 @@
 
 ## Objectives
 
-1. Understand what IRB is
-2. Get comfortable using IRB to execute Ruby code
+1. Describe IRB and why it's useful when programming.
+2. Distinguish IRB from your terminal and other files.
+3. Access and exit IRB via your terminal.
+4. Execute commands in IRB.
 
 <video controls width="100%">
   <source src="http://learn-co-videos.s3.amazonaws.com/ruby/intro-to-irb.mp4" type="video/mp4" >
