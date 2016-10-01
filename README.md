@@ -15,7 +15,7 @@
 
 ## What is IRB?
 
-IRB stands for "Interactive Ruby." It's a Ruby shell or REPL. REPL stands for read–eval–print loop. It is a simple, interactive computer programming environment that takes user inputs (such as, in our case, snippets of Ruby code), evaluates them, and returns the result to the user. IRB is run by your computer's terminal. You can think of it as your Ruby playground or execution environment. You can open it up, insert code and execute it to see that code's return value.
+IRB stands for "Interactive Ruby." It's a Ruby  or REPL. REPL stands for read–eval–print loop. It is a simple, interactive computer programming environment that takes user inputs (such as, in our case, snippets of Ruby code), evaluates them, and returns the result to the user. IRB is run by your computer's terminal. You can think of it as your Ruby playground or execution environment. You can open it up, insert code and execute it to see that code's return value.
 
 ## What *isn't* IRB?
 
@@ -38,3 +38,5 @@ IRB allows you to execute ruby in the terminal and you're going to get comfortab
 4. To leave irb, type the `exit` command - this will get you back to your command line.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/irb-readme' title='Introduction to IRB'>Introduction to IRB</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/irb-readme'>Intro to IRB</a> on Learn.co and start learning to code for free.</p>
