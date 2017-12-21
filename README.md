@@ -27,7 +27,7 @@ IRB allows you to execute ruby in the terminal and you're going to get comfortab
 
 ## Instructions
 
-1. Open up your terminal.
+1. Open up your terminal. (If you do not have a terminal on your computer you can use [repl.it](https://repl.it/))
 2. Type `irb` and hit `return`
 3. Now that you've started IRB, type the commands below to see how it works! Type each of the following lines into the irb shell and press enter.
 
