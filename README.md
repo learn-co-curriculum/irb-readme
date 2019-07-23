@@ -59,7 +59,8 @@ in a Ruby file. For instance, you can do math, get the time by typing
 
 [help]: https://help.learn.co/en/articles/1862105-ide-in-browser-sandbox
 
-2. In the terminal, type `irb` and hit `return`
+2. In the terminal, type `irb` and hit `return` (if you're using Repl.it, 
+you can skip this as the terminal is already set to read Ruby).
 
 3. Now that you've started IRB, type the commands below to see how it works!
    Type each of the following lines into the IRB shell and press enter.
