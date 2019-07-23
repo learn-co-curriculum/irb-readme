@@ -17,7 +17,14 @@ IRB stands for "Interactive Ruby." It's a Ruby shell or REPL. REPL stands for
 read–eval–print loop. It is a simple, interactive computer programming
 environment that takes user inputs (such as, in our case, snippets of Ruby
 code), evaluates them, and returns the result to the user. IRB is run by your
-computer's terminal. You can think of it as your Ruby playground or execution
+computer's terminal. 
+
+> **Reminder**: The term 'terminal' refers to the program we use to
+> communicate with our computer via text input. We can type commands one
+> by one into the terminal and it will return responses, similar to the 
+> way people used computers before graphical user interfaces.
+
+You can think of it as your Ruby playground or execution
 environment. You can open it up, insert code and execute it to see that code's
 return value.
 
@@ -32,16 +39,27 @@ and solve problems with it.
 
 IRB allows you to execute ruby in the terminal and you're going to get
 comfortable using it to test and better understand your Ruby code. To access
-IRB, just type `irb` in the terminal. IRB allows you to do anything you can do
+IRB, just type `irb` in the terminal. 
+
+IRB allows you to do anything you can do
 in a Ruby file. For instance, you can do math, get the time by typing
 `Time.now`, or print text to the screen.
 
 ## Instructions
 
-1. Open up your terminal. (If you do not have a terminal on your computer you
-   can use [repl.it][repl])
+1. Open up your terminal.
 
-2. Type `irb` and hit `return`
+   - If Sandbox is enabled, on this lesson's Learn page, you should see a 'Sandbox'
+   button that will open Learn's in-browser IDE. The terminal is the at the bottom 
+   of the IDE ([check this page out for more information][help])
+   - If you do not have Sandbox, or are not sure how to access the terminal on 
+   your computer, you can also go to [repl.it][repl] and create a Ruby based Repl 
+   to follow along. Repl.it, just like Sandbox, provides a simulated terminal in 
+   the browser that is ready to receive Ruby commands.
+
+[help]: https://help.learn.co/en/articles/1862105-ide-in-browser-sandbox
+
+2. In the terminal, type `irb` and hit `return`
 
 3. Now that you've started IRB, type the commands below to see how it works!
    Type each of the following lines into the IRB shell and press enter.
