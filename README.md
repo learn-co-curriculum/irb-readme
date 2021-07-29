@@ -7,10 +7,6 @@
 3. Access and exit IRB via your terminal.
 4. Execute commands in IRB.
 
-<iframe width="960" height="720" src="https://www.youtube.com/embed/WWh1uxqQI48?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
-[MP4](http://learn-co-videos.s3.amazonaws.com/ruby/intro-to-irb.mp4)
-
 ## What is IRB?
 
 IRB stands for "Interactive Ruby." It's a Ruby shell or REPL. REPL stands for
