@@ -70,5 +70,3 @@ you can skip this as the terminal is already set to read Ruby).
    command line.
 
 [repl]: https://repl.it/
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/irb-readme' title='Introduction to IRB'>Introduction to IRB</a> on Learn.co and start learning to code for free.</p>
